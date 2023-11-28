@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectPetsApp</string>
+    <string name="text_email">Email Address</string>
+    <string name="text_password"> Password</string>
+    <string name="text_forgot_pass"> Forgot Password?</string>
+    <string name="text_sign_in"> LOGIN </string>
+    <string name="text_other_sign"> or connect with </string>
+    <string name="text_login_gg"> Login With Google </string>
+    <string name="text_login_fb"> Login With Facebook </string>
+    <string name="text_login_ap"> Login With Apple </string>
+    <string name="text_bottom"> All Rights Reserved to Pixel Posse - 2022 </string>
+
+</resources>
